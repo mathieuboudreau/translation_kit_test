@@ -1,0 +1,4 @@
+_build/
+_translated/
+.tcache/
+__pycache__/
