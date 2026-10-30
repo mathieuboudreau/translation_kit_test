@@ -1,1 +1,17 @@
-{}
+{
+  "Before you begin, install **Git** and create a free [GitHub account]XPHX0XPHX.": "Avant de commencer, installez **Git** et créez un [compte GitHub]XPHX0XPHX gratuit.",
+  "Chapters": "Chapitres",
+  "Commit your work often, and write short, clear commit messages.": "Enregistrez régulièrement vos modifications et rédigez des messages d'enregistrement courts et clairs.",
+  "Getting started": "Commencer",
+  "Git": "Git",
+  "MyST": "MyST",
+  "Start with []XPHX0XPHX.": "Commencez par []XPHX0XPHX.",
+  "The mean of XPHX0XPHX is XPHX1XPHX.": "La moyenne de XPHX0XPHX est XPHX1XPHX.",
+  "This is a small test book for the [MyST translation kit]XPHX0XPHX. Every page here should also appear in French.": "Ceci est un petit cahier d'exercices pour le [kit de traduction MyST]XPHX0XPHX. Chaque page doit également apparaître en français.",
+  "Tool": "Outil",
+  "Tracks changes to your files": "Enregistre les modifications apportées à vos fichiers",
+  "Translation Kit Test": "Test du kit de traduction",
+  "Turns Markdown into a website": "Transforme Markdown en site web",
+  "Welcome": "Accueillir",
+  "What it does": "Ce que cela fait"
+}
