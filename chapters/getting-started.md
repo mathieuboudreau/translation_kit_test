@@ -22,3 +22,5 @@ The mean of $x_1, \dots, x_n$ is $\bar{x} = \frac{1}{n}\sum_i x_i$.
 |------|--------------|
 | Git | Tracks changes to your files |
 | MyST | Turns Markdown into a website |
+
+Hello world test
